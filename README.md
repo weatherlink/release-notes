@@ -1,2 +1,1 @@
-# release-notes
-Release Notes
+[Read the Release Notes](https://weatherlink.github.io/release-notes/)
