@@ -1,0 +1,6 @@
+---
+title: 
+permalink: /
+classes: wide
+---
+
