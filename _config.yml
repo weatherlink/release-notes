@@ -1,6 +1,6 @@
 remote_theme: mmistakes/minimal-mistakes@4.24.0
 
-title: WeatherLink Release Notes
+title: Release Notes
 
 url: "https://weatherlink.github.io"
 baseurl: /release-notes
