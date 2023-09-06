@@ -1,0 +1,13 @@
+#main:
+#  - title: "Developer Portal"
+#    url: https://weatherlink.github.io
+#  - title: "WeatherLink"
+#    url: https://www.weatherlink.com
+#  - title: "Davis Instruments"
+#    url: https://www.davisinstruments.com
+#  - title: "Discord"
+#    url: https://weatherlink.github.io/discord
+
+navMain: 
+  - title: WeatherLink Console
+    url: /weatherlink-console
