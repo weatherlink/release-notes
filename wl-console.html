@@ -3,12 +3,12 @@
     <style>
         body {font-family: sans-serif;}
 
-
-        .divider {padding: 10px}
-        .heading {}
-        .date {}
-        .highlights {font-weight: bold;}
-        .notes {}
+        .releaseGroup  {padding: 25px}
+        .groupheading {font-size: large;}
+        groupheading > div {padding-top: 10px;}
+        .groupDate {}
+        .groupHighlights {font-weight: bold;}
+        .groupNotes {}
 
         #topBar {width: 100%; height: 25px; background-color: #0b2d36;}
         #title {font-size: 26px; font-weight: bold; padding: 10px 0px;}
@@ -23,19 +23,20 @@
         WeatherLink Console Release Notes
     </div>
 
-    <div class="divider"></div>
+    <div class="releaseGroup">
+        <div class="groupheading">
+            Firmware 1.2.14
+        </div>
+        <div class="groupDate">
+            July 16, 2023
+        </div>
+        <div class="groupNotes>
+            <div class="groupHighlights">Highlights</div>
+            <ul>
+                <li>Fixed Sunrise/Sunset widget disappearing on the display page.</li>
+            </ul>
+        </div>
 
-    <div class="heading">
-        Firmware 1.2.14
-    </div>
-    <div class="date">
-        July 16, 2023
-    </div>
-    <div class="notes">
-        <div class="highlights">Highlights</div>
-        <ul>
-            <li>Fixed Sunrise/Sunset widget disappearing on the display page.</li>
-        </ul>
     </div>
 
 
